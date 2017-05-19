@@ -1,10 +1,8 @@
 # react-native-confetti
-Confettis for your app, inspired by dom-confetti (https://github.com/daniel-lundin/dom-confetti)
-
-# Project Name
 
 Celebrative UI for your app 🎉🎉🎉
-Inspired by dom-confetti
+
+Inspired by dom-confetti (https://github.com/daniel-lundin/dom-confetti)
 
 ## Installation
 
