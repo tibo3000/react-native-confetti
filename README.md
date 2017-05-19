@@ -4,6 +4,8 @@ Celebrative UI for your app 🎉🎉🎉
 
 Inspired by dom-confetti (https://github.com/daniel-lundin/dom-confetti)
 
+![](http://i.imgur.com/f6IYhmM.gif)
+
 ## Installation
 
 Download Confetti.js and import it in whatever JS file you want.
