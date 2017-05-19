@@ -17,13 +17,13 @@ import Confetti from './Confetti'
 Set it up with a ref and a colors prop
 
 ```jsx
-<Confetti ref={(ref) => this._confetti = ref} colors={[['#a864fd','#29cdff','#78ff44']} />
+<Confetti ref={(ref) => this._confetti = ref} colors={['#a864fd','#29cdff','#78ff44']} />
 ```
 
 Shoot the confettis!
 ```javascript
 let config = {
-  angle : 30,
+  angle : 90,
   decay : 0.9,
   spread : 40,
   startVelocity : 20,
