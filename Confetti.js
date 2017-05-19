@@ -37,7 +37,7 @@ export default class Confetti extends Component {
 
   render() {
     return (
-        <View style={{position:"relative", left: "50%", top: 200}}>
+        <View style={{position:"relative", top: 0, left: 0}}>
           {this.fettis.map((o, i) => {
             return <Fetti color={o.e.color} key={o.e.key} opacity={o.e.opacity} translateX={o.e.translateX} translateY={o.e.translateY}  rotate={o.e.rotate} />
           })}
